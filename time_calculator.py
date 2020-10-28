@@ -131,5 +131,3 @@ def add_time(start, duration, day = None):
   
 
   return new_time
-
-  # need to work in 2 days later
